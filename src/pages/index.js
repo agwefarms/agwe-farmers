@@ -19,7 +19,7 @@ const features = [
   },
   {
     title: <>Free as in Freedom</>,
-    imageUrl: 'img/undraw_docusaurus_tree.svg',
+    imageUrl: 'img/connect.svg',
     description: (
       <>
         AGWE Farmers servers are free to use, you&apos;ll just need a copy of 
