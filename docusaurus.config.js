@@ -17,11 +17,11 @@ module.exports = {
         {
           to: 'docs/',
           activeBasePath: 'docs',
-          label: 'Docs',
+          label: 'AGWE Docs',
           position: 'left',
         },
-        {to: 'blog', label: 'Blog', position: 'left'},
-        {to: 'servers', activeBasePath: 'servers', label: 'Servers', position: 'left'},
+        {to: 'blog', label: 'AGWE Blog', position: 'left'},
+        {to: 'servers', activeBasePath: 'servers', label: 'AGWE Servers', position: 'left'},
         {
           href: 'https://github.com/agwefarms/agwe-farmers',
           label: 'AGWE Github',
