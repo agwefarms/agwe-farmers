@@ -1,6 +1,6 @@
 ---
 slug: usa
-title: Style Guide
+title: USA
 sidebar_label: USA
 ---
 
