@@ -23,7 +23,7 @@ const features = [
     description: (
       <>
         AGWE Farmers servers are free to use, you&apos;ll just need a copy of 
-        <a href="https://www.minecraft.net/en-us/store/minecraft-java-edition" target="blank" rel="nofollow">Minecraft Java Edition</a> to connect.
+        <a href="https://www.minecraft.net/en-us/store/minecraft-java-edition" target="blank" rel="nofollow"> Minecraft Java Edition</a> to connect.
         We believe in helping those who help our communities thrive.
       </>
     ),
