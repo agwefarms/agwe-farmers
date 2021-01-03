@@ -1,7 +1,7 @@
 ---
-slug: /
+slug: usa
 title: Style Guide
-sidebar_label: Style Guide
+sidebar_label: USA
 ---
 
 USA
