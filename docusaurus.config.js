@@ -21,7 +21,7 @@ module.exports = {
           position: 'left',
         },
         {to: 'blog', label: 'AGWE Blog', position: 'left'},
-        {to: 'servers', activeBasePath: 'servers', label: 'AGWE Servers', position: 'left'},
+        {to: 'servers/', activeBasePath: 'servers', label: 'AGWE Servers', position: 'left'},
         {
           href: 'https://github.com/agwefarms/agwe-farmers',
           label: 'AGWE Github',
