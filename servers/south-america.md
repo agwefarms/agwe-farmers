@@ -1,7 +1,7 @@
 ---
-slug: /
-title: Style Guide
-sidebar_label: Style Guide
+slug: south-america
+title: South America
+sidebar_label: South America
 ---
 
 South America
