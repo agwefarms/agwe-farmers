@@ -1,7 +1,7 @@
 ---
-slug: /
-title: Style Guide
-sidebar_label: Style Guide
+slug: uk
+title: UK
+sidebar_label: UK
 ---
 
 UK
