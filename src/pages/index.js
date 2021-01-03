@@ -9,7 +9,7 @@ import styles from './styles.module.css';
 const features = [
   {
     title: <>AGWE Farmers</>,
-    imageUrl: 'img/logo.svg',
+    imageUrl: 'img/agwe.svg',
     description: (
       <>
         AGWE <code>(Agricultural Game World Engine)</code> Farmers has been created for farmers to model scaled recreations of their farms or upcoming plans.
