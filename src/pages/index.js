@@ -14,7 +14,6 @@ const features = [
       <>
         AGWE <code>(Agricultural Game World Engine)</code> Farmers has been created for farmers to model scaled recreations of their farms or upcoming plans.
         Buildings, crops, livestock and their supportive systems can be mapped and exported for later use.
-        
       </>
     ),
   },
@@ -23,7 +22,9 @@ const features = [
     imageUrl: 'img/undraw_docusaurus_tree.svg',
     description: (
       <>
-        AGWE Farmers servers are free to use, you&apos;ll just need a copy of <a href="https://www.minecraft.net/en-us/store/minecraft-java-edition" target="blank" rel="nofollow">Minecraft Java Edition</a> to connect.
+        AGWE Farmers servers are free to use, you&apos;ll just need a copy of 
+        <a href="https://www.minecraft.net/en-us/store/minecraft-java-edition" target="blank" rel="nofollow">Minecraft Java Edition</a> to connect.
+        We believe in helping those who help our communities thrive.
       </>
     ),
   },
