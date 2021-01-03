@@ -11,7 +11,7 @@ module.exports = {
       title: 'AGWE',
       logo: {
         alt: 'AGWE Logo',
-        src: 'img/logo.svg',
+        src: 'img/agwe.svg',
       },
       items: [
         {
